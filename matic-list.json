@@ -9,7 +9,7 @@
     "tags": {},
     "logoURI": "https://cryptologos.cc/logos/polygon-matic-logo.png",
     "keywords": [
-        "uniswap",
+        "sphereswap",
         "default"
     ],
     "tokens": [
@@ -23,7 +23,7 @@
         },
         {
             "name": "Funky Token",
-            "address": "0x2038ba9cafd8b1afeb755dbcc16b44e78f97f1fd",
+            "address": "0x0d69173abc38660511008a5460b71a7a7a41e068",
             "symbol": "FUNK",
             "decimals": 18,
             "chainId": 137,
